@@ -75,6 +75,19 @@ section{
     color:#fff;
 }
 
+a:active{
+    text-decoration: none;
+    color: #f9ca24;    
+}
+a:visited{
+    text-decoration: none;
+    color: #f9ca24;    
+}
+a:hover{
+    text-decoration: none;
+    color: #fff;    
+}
+
 .heading span{
     color:var(--yellow);
 }
