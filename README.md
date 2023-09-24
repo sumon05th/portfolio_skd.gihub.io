@@ -5,6 +5,7 @@
 # My Portfolio Website
 
 This is the repository for my personal portfolio website, showcasing my skills, projects, and experiences.
+Website Screenshoth👇 [![img4.jpg](https://i.postimg.cc/L8z5nN9y/img4.jpg)](https://postimg.cc/9DQCkPqT)
 
 ## Table of Contents
 
@@ -19,7 +20,7 @@ This is the repository for my personal portfolio website, showcasing my skills, 
 
 ## Introduction
 
-Welcome to my portfolio website! This website serves as an online resume and portfolio to showcase my work and skills as a [Software Devloper].
+Welcome to my portfolio website! This website serves as an online resume and portfolio to showcase my work and skills as a Software Devloper.
 
 ## Features
 
